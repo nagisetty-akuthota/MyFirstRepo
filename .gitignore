@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Jarus.Quote.Common/bin/Debug/netcoreapp3.1
+/Jarus.Quote.Common/obj
+/Jarus.Quote.Model/bin/Debug/netcoreapp3.1
+/Jarus.Quote.Model/obj
+/Jarus.Quote.MVCUI/.vs/Jarus.Quote.MVCUI/v16
+/Jarus.Quote.MVCUI/.vs/Jarus.Quote.MVCUI/DesignTimeBuild
+/Jarus.Quote.MVCUI/bin/Debug/netcoreapp3.1
+/Jarus.Quote.MVCUI/.vs/Jarus.Quote.MVCUI/config
+/Jarus.Quote.MVCUI/obj
+/Jarus.Quote.WebAPI/bin/Debug/netcoreapp3.1
+/Jarus.Quote.WebAPI/obj
